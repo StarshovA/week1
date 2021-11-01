@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "vidget38"
+      "X-Author": "vidget38",
       "Access-Control-Allow-Origin": "*"
     }
   }
